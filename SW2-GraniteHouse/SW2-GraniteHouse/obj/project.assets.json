@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kiro Abadier\\Desktop\\SW2Project\\GraniteHouseSw2\\SW2-GraniteHouse\\SW2-GraniteHouse\\SW2-GraniteHouse.csproj",
+      "projectUniqueName": "C:\\Users\\Kiro Abadier\\Documents\\GitHub\\GraniteHouseSw2\\SW2-GraniteHouse\\SW2-GraniteHouse\\SW2-GraniteHouse.csproj",
       "projectName": "SW2-GraniteHouse",
-      "projectPath": "C:\\Users\\Kiro Abadier\\Desktop\\SW2Project\\GraniteHouseSw2\\SW2-GraniteHouse\\SW2-GraniteHouse\\SW2-GraniteHouse.csproj",
+      "projectPath": "C:\\Users\\Kiro Abadier\\Documents\\GitHub\\GraniteHouseSw2\\SW2-GraniteHouse\\SW2-GraniteHouse\\SW2-GraniteHouse.csproj",
       "packagesPath": "C:\\Users\\Kiro Abadier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kiro Abadier\\Desktop\\SW2Project\\GraniteHouseSw2\\SW2-GraniteHouse\\SW2-GraniteHouse\\obj\\",
+      "outputPath": "C:\\Users\\Kiro Abadier\\Documents\\GitHub\\GraniteHouseSw2\\SW2-GraniteHouse\\SW2-GraniteHouse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiro Abadier\\AppData\\Roaming\\NuGet\\NuGet.Config",
